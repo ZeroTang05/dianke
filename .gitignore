@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.runs/
+dist/
+output/
+.DS_Store
+
+# 比赛原始资料、含数据的图谱与本地参考项目。
+/*赛题发布*.pdf
+/面向开放数据的领域本体智能化标注技术-初赛数据集*/
+/关系图谱/
+/entity-graph-builder-main/
