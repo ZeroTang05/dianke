@@ -1,0 +1,84 @@
+[
+  {
+    "zjhm": "990104198003135892",
+    "relatedItem": "jcxmmc",
+    "relatedItemVal": "腹部CT",
+    "changeItem": "jcjg",
+    "values": [
+      {
+        "value": "胰腺饱满，周围脂肪间隙稍模糊",
+        "ref": "OK_M000234_S3",
+        "reason": "",
+        "time": "2025-07-15"
+      },
+      {
+        "value": "阑尾增粗，周围脂肪间隙模糊，考虑急性阑尾炎",
+        "ref": "OK_M000234_S4",
+        "reason": "",
+        "time": "2025-08-20"
+      }
+    ],
+    "statusPairs": []
+  },
+  {
+    "zjhm": "990111199506183072",
+    "relatedItem": "jcxmmc",
+    "relatedItemVal": "胸部CT",
+    "changeItem": "jcjg",
+    "values": [
+      {
+        "value": "两肺纹理增多",
+        "ref": "OK_M000235_S3",
+        "reason": "",
+        "time": "2025-09-03"
+      },
+      {
+        "value": "两肺纹理增多，未见实变",
+        "ref": "OK_M000235_S4",
+        "reason": "",
+        "time": "2025-10-03"
+      },
+      {
+        "value": "两肺纹理增多，未见实变",
+        "ref": "OK_M000235_S4_dup",
+        "reason": "",
+        "time": "2025-10-13"
+      }
+    ],
+    "statusPairs": [
+      {
+        "priorStatus": {
+          "value": "较前明显吸收",
+          "ref": "OK_M000235_S4",
+          "time": "2025-10-03"
+        },
+        "postStatus": {
+          "value": "大部分吸收",
+          "ref": "OK_M000235_S4_dup",
+          "time": "2025-10-13"
+        }
+      }
+    ]
+  },
+  {
+    "zjhm": "990107200103016280",
+    "relatedItem": "jcxmmc",
+    "relatedItemVal": "十二导联心电图检查",
+    "changeItem": "jcjg",
+    "values": [
+      {
+        "value": "窦性心律，ST段轻度压低",
+        "ref": "OK_M000233_S3",
+        "reason": "",
+        "time": "2025-06-08"
+      },
+      {
+        "value": "窦性心律",
+        "ref": "OK_M000233_S4",
+        "reason": "",
+        "time": "2025-07-07"
+      }
+    ],
+    "statusPairs": []
+  }
+]

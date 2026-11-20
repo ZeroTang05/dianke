@@ -17,4 +17,6 @@ COPY run.sh ./
 COPY src/ ./src/
 RUN chmod +x run.sh
 
+# 中间记录写入容器的临时目录，正式结果由程序写到 OUTPUT_DIR。
+WORKDIR /tmp
 ENTRYPOINT ["/app/program/solution/run.sh"]

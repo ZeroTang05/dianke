@@ -12,15 +12,17 @@ uv pip sync requirements.txt
 source .venv/bin/activate
 ```
 
-本地验证入口 `scripts/run_siliconflow.sh` 使用硅基流动中国站和 `Qwen/Qwen3.5-27B`，默认关闭思考模式。通过进程环境提供 `LLM_API_KEY`（密钥），可用终端隐式输入或密钥管理器注入。用以下命令验证接口，测试内容不含医疗信息：
+本地验证可使用硅基流动中国站和 `Qwen/Qwen3.5-27B`。通过进程环境提供 `LLM_API_KEY`（密钥），可用终端隐式输入或密钥管理器注入。接口检查使用一句普通测试文本。
 
 ```sh
+export LLM_BASE_URL=https://api.siliconflow.cn/v1
+export LLM_MODEL=Qwen/Qwen3.5-27B
 ./scripts/run_siliconflow.sh --probe
 ```
 
-通用入口 `./run.sh` 从 `LLM_BASE_URL`（模型接口地址）和 `LLM_MODEL`（模型名）读取配置，正式评测由主办方提供这两项配置和密钥。`LLM_USE_JSON_SCHEMA=1` 需要网关支持按指定结构返回 JSON；`LLM_ENABLE_THINKING` 按网关要求设置。
+本地脚本和正式入口 `./run.sh` 共用模型环境变量。`LLM_USE_JSON_SCHEMA=1` 要求网关按指定结构返回 JSON。`LLM_ENABLE_THINKING` 控制思考模式，本地验证脚本默认设为 `0`。
 
-以下是仓库开发步骤。`dev_data.py` 接收含「任务一」「任务二」的官方验证集目录，将首轮 20 条材料、完整输入和标准答案分别放在 `.runs/dev/pilot`、`.runs/dev/full` 和 `.runs/dev/gold`：
+私有仓库内的「初赛数据集1016」目录包含两份输入和三份参考标注，仅供参赛验证。`dev_data.py` 将首轮 20 条材料、完整输入和参考标注分别放在 `.runs/dev/pilot`、`.runs/dev/full` 和 `.runs/dev/gold`。
 
 ```zsh
 python scripts/dev_data.py *1016*/验证集
@@ -74,10 +76,12 @@ python scripts/compare_experiments.py .runs/base-report.json .runs/trial-report.
 
 ```sh
 docker build --platform linux/amd64 -t d01-solution .
-python scripts/package_solution.py TEAM 0.1.0
+python scripts/package_solution.py TEAM 0.1.8
 ```
 
-容器入口为 `/app/program/solution/run.sh`，默认从只读 `/input` 读取材料，写入 `/output`。`--task all` 生成三份结果；`task1` 生成任务一结果；`task2` 也读取任务一输入，完成建模和结构漏项复核，再生成任务二的两份结果。`--in-dir`、`--out-dir` 可覆盖对应路径。正式评测由主办方注入模型配置。
+打包时将 `TEAM` 换成登记的参赛队名。容器入口为 `/app/program/solution/run.sh`。主办方将测试数据挂载到 `DATA_ROOT`（默认 `/input`），通过 `--out-dir` 指定结果目录（默认读取 `OUTPUT_DIR`，默认值 `/output`）。模型地址、令牌、模型名及开关由主办方通过环境变量提供。完整运行约定见 [评测运行说明](docs/submission-readme.md)。
+
+`--task all` 生成三份结果。`--task task1` 只生成任务一结果。`--task task2` 使用任务一输入归纳表结构，生成任务二的两份结果。
 
 | 输出 | 内容 |
 | --- | --- |
@@ -85,4 +89,4 @@ python scripts/package_solution.py TEAM 0.1.0
 | `task2/labels-t1.json` | 实例记录和关联 |
 | `task2/labels-t2.json` | 时序状态和伪变化 |
 
-提交包仅包含运行需要的文件，并使用独立的评测运行说明 `docs/submission-readme.md` 作为包内的 `README.md`。技术方案单独提交。比赛成绩以官方评测为准。
+评测平台接收 `dist/` 下的代码压缩包和单独提交的技术方案。代码包内含 Dockerfile、入口脚本、依赖、源码和评测运行说明。验证集供本地复现使用。

@@ -10,9 +10,17 @@
 docker build --platform linux/amd64 -t d01-solution .
 ```
 
-评测服务通过 `/app/program/solution/run.sh` 启动程序，把输入目录只读挂载到 `/input`，并通过 `--out-dir` 指定输出目录（默认 `/output`）。输入文件为 `task1/inputs.json` 和 `task2/inputs.json`。
+评测服务通过 `/app/program/solution/run.sh` 启动程序。程序从 `DATA_ROOT` 指向的只读目录读取 `task1/inputs.json` 和 `task2/inputs.json`，默认目录为 `/input`。结果写入 `--out-dir` 指定的目录。未传此参数时使用 `OUTPUT_DIR`，默认目录为 `/output`。
 
-评测服务注入 `LLM_BASE_URL`（模型网关地址）、`LLM_MODEL`（模型名）和 `LLM_API_KEY`（调用令牌）。程序也读取 `LLM_USE_JSON_SCHEMA`（按指定 JSON 结构返回）和 `LLM_ENABLE_THINKING`（思考模式）配置。所有阶段共用每分钟最多 120 次请求的限速。
+| 主办方注入的变量 | 程序如何使用 |
+| --- | --- |
+| `LLM_BASE_URL` | OpenAI 兼容网关地址，程序在末尾加上 `/chat/completions` |
+| `LLM_API_KEY` | 作为请求的调用令牌 |
+| `LLM_MODEL` | 作为请求中的模型名 |
+| `LLM_USE_JSON_SCHEMA` | `1` 时请求网关按指定 JSON 结构返回，`0` 时由程序校验模型返回的 JSON |
+| `LLM_ENABLE_THINKING` | `1` 开启思考模式，`0` 关闭 |
+
+所有阶段合计每分钟最多发送 120 次请求。单次请求默认超时 120 秒。
 
 ## 输出文件
 
@@ -22,4 +30,4 @@ docker build --platform linux/amd64 -t d01-solution .
 | `task1` | 任务一输入 | `task1/labels.json` |
 | `task2` | 两项任务的输入，任务一用来归纳表结构 | `task2/labels-t1.json`、`task2/labels-t2.json` |
 
-程序校验本次所需的输出后写入结果目录。运行摘要和阶段审核记录存在独立的工作目录，用于定位问题。
+程序校验本次所需的输出后写入结果目录。容器将运行摘要和阶段审核记录存到 `/tmp/.runs/work/`，用于定位问题。

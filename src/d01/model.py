@@ -43,8 +43,14 @@ class ModelConfig:
 
     @classmethod
     def from_environment(cls, *, require_key: bool = True) -> "ModelConfig":
-        names = ("LLM_BASE_URL", "LLM_MODEL", "LLM_API_KEY") if require_key else ("LLM_BASE_URL", "LLM_MODEL")
-        missing = [name for name in names if not os.environ.get(name, "").strip()]
+        """读取评测进程注入的网关配置。离线重放仍用地址和模型匹配缓存。"""
+        base_url = os.environ.get("LLM_BASE_URL", "").strip()
+        model = os.environ.get("LLM_MODEL", "").strip()
+        api_key = os.environ.get("LLM_API_KEY", "").strip() if require_key else ""
+        required = {"LLM_BASE_URL": base_url, "LLM_MODEL": model}
+        if require_key:
+            required["LLM_API_KEY"] = api_key
+        missing = [name for name, value in required.items() if not value]
         if missing:
             raise ValueError(f"缺少模型环境变量：{', '.join(missing)}")
 
@@ -54,14 +60,20 @@ class ModelConfig:
                 raise ValueError(f"{name} 必须是 0 或 1")
             return None if value is None else value == "1"
 
-        url = os.environ["LLM_BASE_URL"].strip().rstrip("/")
-        parsed = urlsplit(url)
+        base_url = base_url.rstrip("/")
+        parsed = urlsplit(base_url)
         if parsed.scheme not in {"https", "http"} or not parsed.hostname or parsed.username or parsed.password or parsed.query or parsed.fragment:
             raise ValueError("LLM_BASE_URL 需要 HTTP 或 HTTPS 地址，且不含凭据或查询参数")
-        config = cls(url, os.environ["LLM_MODEL"].strip(), os.environ.get("LLM_API_KEY", "").strip() if require_key else "",
-                     bool(flag("LLM_USE_JSON_SCHEMA")), flag("LLM_ENABLE_THINKING"),
-                     int(os.environ.get("LLM_RPM", "120")), float(os.environ.get("LLM_TIMEOUT", "120")),
-                     int(os.environ.get("LLM_CONTEXT_CHARS", "28000")))
+        config = cls(
+            base_url=base_url,
+            model=model,
+            api_key=api_key,
+            json_schema=bool(flag("LLM_USE_JSON_SCHEMA")),
+            thinking=flag("LLM_ENABLE_THINKING"),
+            rpm=int(os.environ.get("LLM_RPM", "120")),
+            timeout=float(os.environ.get("LLM_TIMEOUT", "120")),
+            context_chars=int(os.environ.get("LLM_CONTEXT_CHARS", "28000")),
+        )
         if not 1 <= config.rpm <= 120 or not 0 < config.timeout <= 600 or config.context_chars < 10000:
             raise ValueError("模型配置需要 1–120 次/分钟、0–600 秒超时、至少 10000 字的输入预算")
         return config

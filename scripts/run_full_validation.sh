@@ -35,12 +35,13 @@ trap 'exit 143' TERM
 write_status running
 PATH="$root/.venv/bin:$PATH"
 export PATH
-validation_key=${LLM_API_KEY:-${SILICONFLOW_API_KEY:-}}
-: "${validation_key:?请通过环境提供模型密钥}"
+: "${LLM_BASE_URL:?请通过环境提供模型网关地址}"
+: "${LLM_MODEL:?请通过环境提供模型名称}"
+: "${LLM_API_KEY:?请通过环境提供模型密钥}"
 rpm=${LLM_RPM:-45}
 workers=${D01_VALIDATION_WORKERS:-4}
 printf '开始全量验证（%s，每分钟最多 %s 次请求，并发 %s）\n' "$task" "$rpm" "$workers"
-LLM_API_KEY="$validation_key" LLM_RPM="$rpm" LLM_TIMEOUT=120 \
+LLM_RPM="$rpm" LLM_TIMEOUT=120 \
     ./scripts/run_siliconflow.sh --task "$task" --workers "$workers" \
     --in-dir .runs/dev/full --out-dir "$run_dir/answers" \
     --work-dir "$run_dir/work" --cache-dir .runs/qwen35/pilot/cache

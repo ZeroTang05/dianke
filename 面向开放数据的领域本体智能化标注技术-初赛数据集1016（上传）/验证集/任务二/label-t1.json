@@ -1,0 +1,5460 @@
+[
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000003",
+      "hzxm": "萧策",
+      "zjhm": "P85706600"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000004",
+      "hzxm": "杀阡陌",
+      "zjhm": "990101199608026662"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000005",
+      "hzxm": "曹长卿",
+      "zjhm": "990106197609124928"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000006",
+      "hzxm": "温华",
+      "zjhm": "990305197609239946"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000007",
+      "hzxm": "王蝉",
+      "zjhm": "990111199206257826"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000009",
+      "hzxm": "龙葵",
+      "zjhm": "P68494000"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000011",
+      "hzxm": "扶摇",
+      "zjhm": "990113195503051445"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000012",
+      "hzxm": "邬通",
+      "zjhm": "990106199507111500"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000013",
+      "hzxm": "迷谷",
+      "zjhm": "990101195810157289"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000014",
+      "hzxm": "丰兰息",
+      "zjhm": "990203195510106203"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000015",
+      "hzxm": "沈欺霜",
+      "zjhm": "990106196006061507"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000016",
+      "hzxm": "周淳",
+      "zjhm": "990111197305020286"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000017",
+      "hzxm": "王金洋",
+      "zjhm": "990107195102059920"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000018",
+      "hzxm": "桑籍",
+      "zjhm": "990103197510287232"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000019",
+      "hzxm": "沈玄",
+      "zjhm": "990113198903208724"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000020",
+      "hzxm": "叶冰裳",
+      "zjhm": "990106197610135642"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000021",
+      "hzxm": "宁缺",
+      "zjhm": "990106199301020996"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000022",
+      "hzxm": "褚强",
+      "zjhm": "990106199612237199"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000025",
+      "hzxm": "阿泰",
+      "zjhm": "990203200010263142"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000026",
+      "hzxm": "林惊羽",
+      "zjhm": "P73800200"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000027",
+      "hzxm": "扁络桓",
+      "zjhm": "990203198706023868"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000028",
+      "hzxm": "白羽",
+      "zjhm": "990106198201263824"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000029",
+      "hzxm": "风晴雪",
+      "zjhm": "P90367500"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000030",
+      "hzxm": "慕湮",
+      "zjhm": "P23715200"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000033",
+      "hzxm": "张若尘",
+      "zjhm": "990104196307011275"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000035",
+      "hzxm": "罗海",
+      "zjhm": "990113199707096811"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000036",
+      "hzxm": "姜承",
+      "zjhm": "P94742300"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000037",
+      "hzxm": "越今朝",
+      "zjhm": "P34583200"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000038",
+      "hzxm": "岑缨",
+      "zjhm": "99010119951102664X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000040",
+      "hzxm": "凤知微",
+      "zjhm": "990106196604010701"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000042",
+      "hzxm": "滕青山",
+      "zjhm": "990103198112224433"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000043",
+      "hzxm": "牧云笙",
+      "zjhm": "P76448800"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000047",
+      "hzxm": "簌离",
+      "zjhm": "990106197106216839"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000049",
+      "hzxm": "长孙浅雪",
+      "zjhm": "990111195609111073"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000052",
+      "hzxm": "夙玉",
+      "zjhm": "990102196102135360"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000101",
+      "hzxm": "杨辉",
+      "zjhm": "990107200103016280"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000102",
+      "hzxm": "师青玄",
+      "zjhm": "990104198003135892"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000103",
+      "hzxm": "夏紫薰",
+      "zjhm": "990111199506183072"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000305",
+      "hzxm": "邝露",
+      "zjhm": "990106200111202428"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000306",
+      "hzxm": "阿念",
+      "zjhm": "990102195810222436"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000308",
+      "hzxm": "莫凡",
+      "zjhm": "990107198003252454"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000310",
+      "hzxm": "方兰生",
+      "zjhm": "990106199804232474"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000313",
+      "hzxm": "秦德",
+      "zjhm": "990101196703122501"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000325",
+      "hzxm": "龙溟",
+      "zjhm": "990101197901282623"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000328",
+      "hzxm": "苏茹",
+      "zjhm": "99010319740806266X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000330",
+      "hzxm": "萧忆情",
+      "zjhm": "990102195910172683"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000331",
+      "hzxm": "谢危",
+      "zjhm": "990106198506062679"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000335",
+      "hzxm": "井九",
+      "zjhm": "99010619760313271X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000336",
+      "hzxm": "苍松",
+      "zjhm": "990106195709082748"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000337",
+      "hzxm": "李景珑",
+      "zjhm": "990107197905122742"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000338",
+      "hzxm": "乐无异",
+      "zjhm": "990113197410232764"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000339",
+      "hzxm": "诸葛韬",
+      "zjhm": "99010619780814276X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000340",
+      "hzxm": "李七夜",
+      "zjhm": "990107198811112783"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000341",
+      "hzxm": "白小纯",
+      "zjhm": "990111196809122775"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000345",
+      "hzxm": "青元子",
+      "zjhm": "P11455860"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000346",
+      "hzxm": "息衍",
+      "zjhm": "P11535050"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000347",
+      "hzxm": "曾书书",
+      "zjhm": "990101197801122841"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000350",
+      "hzxm": "张百忍",
+      "zjhm": "990113196506052886"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000351",
+      "hzxm": "拓跋玉儿",
+      "zjhm": "990113200302092877"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000357",
+      "hzxm": "陈芝豹",
+      "zjhm": "990101198708042948"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000358",
+      "hzxm": "徐凤年",
+      "zjhm": "P12585330"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000360",
+      "hzxm": "凤九",
+      "zjhm": "990305199112232983"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000361",
+      "hzxm": "郭海",
+      "zjhm": "990102196310172970"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000362",
+      "hzxm": "穗禾",
+      "zjhm": "99010619721223299X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000363",
+      "hzxm": "顾南衣",
+      "zjhm": "990106197406072998"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000366",
+      "hzxm": "袁慎",
+      "zjhm": "990113196906193039"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000367",
+      "hzxm": "朱敛",
+      "zjhm": "990106197908123036"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000368",
+      "hzxm": "方磐",
+      "zjhm": "990203197101223053"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000369",
+      "hzxm": "谢衣",
+      "zjhm": "P13383120"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000370",
+      "hzxm": "墨渊",
+      "zjhm": "P13435610"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000373",
+      "hzxm": "隆庆",
+      "zjhm": "990101197103153093"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000376",
+      "hzxm": "孟奇",
+      "zjhm": "P13910750"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000377",
+      "hzxm": "唐钰",
+      "zjhm": "P14089940"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000378",
+      "hzxm": "玄霄",
+      "zjhm": "990106201202043166"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000381",
+      "hzxm": "刘晋元",
+      "zjhm": "99020319900425317X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000382",
+      "hzxm": "夙瑶",
+      "zjhm": "990103199607123196"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000383",
+      "hzxm": "向之礼",
+      "zjhm": "990102198801123195"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000384",
+      "hzxm": "燕洵",
+      "zjhm": "990113198310093212"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000385",
+      "hzxm": "黎苏苏",
+      "zjhm": "P14623460"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000387",
+      "hzxm": "李青候",
+      "zjhm": "99010319600314323X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000391",
+      "hzxm": "白风夕",
+      "zjhm": "990101197301223283"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000392",
+      "hzxm": "怀朔",
+      "zjhm": "99010619710422330X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000395",
+      "hzxm": "徐刚",
+      "zjhm": "P15415360"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000399",
+      "hzxm": "云天河",
+      "zjhm": "P15732120"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000400",
+      "hzxm": "史江",
+      "zjhm": "99010219920226338X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000402",
+      "hzxm": "江年",
+      "zjhm": "990305195410143403"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000405",
+      "hzxm": "越祈",
+      "zjhm": "99010619701221341X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000407",
+      "hzxm": "齐正言",
+      "zjhm": "990305198707163433"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000408",
+      "hzxm": "宇文玥",
+      "zjhm": "99030519580907346X"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000412",
+      "hzxm": "孟川",
+      "zjhm": "990101200411133494"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000413",
+      "hzxm": "赵满延",
+      "zjhm": "990106196409173499"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000416",
+      "hzxm": "朔风",
+      "zjhm": "990107196103273544"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000417",
+      "hzxm": "顾廷煜",
+      "zjhm": "990103198701203542"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000418",
+      "hzxm": "云霆",
+      "zjhm": "990111197909093566"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000422",
+      "hzxm": "苏语凝",
+      "zjhm": "990305196207013595"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000424",
+      "hzxm": "王通",
+      "zjhm": "990102197011113625"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000427",
+      "hzxm": "阿阮",
+      "zjhm": "990107197909173635"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "患者",
+    "typeCode": "hz",
+    "data": {
+      "hzbh": "HZ000430",
+      "hzxm": "风信",
+      "zjhm": "990106197106183671"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0001",
+      "jcxmmc": "颈甲状腺超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0002",
+      "jcxmmc": "甲状腺核素显像",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0003",
+      "jcxmmc": "妇科超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0004",
+      "jcxmmc": "胃镜检查",
+      "jclb": "内镜"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0005",
+      "jcxmmc": "腹部超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0006",
+      "jcxmmc": "头颅CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0007",
+      "jcxmmc": "胸部X线检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0008",
+      "jcxmmc": "泌尿系超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0009",
+      "jcxmmc": "乳腺超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0010",
+      "jcxmmc": "肺功能检查",
+      "jclb": "物理"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0011",
+      "jcxmmc": "腮腺超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0012",
+      "jcxmmc": "颈动脉超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0014",
+      "jcxmmc": "十二导联心电图检查",
+      "jclb": "物理"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0015",
+      "jcxmmc": "腰部CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0018",
+      "jcxmmc": "胸部CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0019",
+      "jcxmmc": "腹部CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0101",
+      "jcxmmc": "胃镜检查",
+      "jclb": "内镜"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0102",
+      "jcxmmc": "腹部超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0104",
+      "jcxmmc": "腹部CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0105",
+      "jcxmmc": "十二导联心电图检查",
+      "jclb": "物理"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0106",
+      "jcxmmc": "心脏彩色多普勒超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0107",
+      "jcxmmc": "颈动脉超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0108",
+      "jcxmmc": "胸部X线检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0109",
+      "jcxmmc": "胸部CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0110",
+      "jcxmmc": "肺功能检查",
+      "jclb": "物理"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0111",
+      "jcxmmc": "颈甲状腺超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0112",
+      "jcxmmc": "甲状腺核素显像",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0113",
+      "jcxmmc": "头颅CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0114",
+      "jcxmmc": "腰部CT",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0116",
+      "jcxmmc": "泌尿系超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0117",
+      "jcxmmc": "关节X线检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0118",
+      "jcxmmc": "乳腺超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0119",
+      "jcxmmc": "腮腺超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查",
+    "typeCode": "jc",
+    "data": {
+      "jcbh": "JC0120",
+      "jcxmmc": "妇科超声检查",
+      "jclb": "影像"
+    },
+    "relations": {}
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000005",
+      "jzbh": "JZ000003A",
+      "jcbh": "JC0001",
+      "jcjg": "甲状腺血流信号增多",
+      "jcbw": "颈部",
+      "bgrq": "2025-02-01T14:25:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000003A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0001"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000006",
+      "jzbh": "JZ000004A",
+      "jcbh": "JC0003",
+      "jcjg": "子宫内膜增厚",
+      "jcbw": "盆腔",
+      "bgrq": "2025-03-21T18:08:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000004A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0003"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000007",
+      "jzbh": "JZ000005A",
+      "jcbh": "JC0003",
+      "jcjg": "子宫肌壁回声不均，考虑腺肌症",
+      "jcbw": "盆腔",
+      "bgrq": "2025-01-19T09:09:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000005A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0003"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000008",
+      "jzbh": "JZ000006A",
+      "jcbh": "JC0003",
+      "jcjg": "子宫肌壁回声不均，考虑腺肌症",
+      "jcbw": "盆腔",
+      "bgrq": "2025-02-26T09:48:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000006A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0003"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000009",
+      "jzbh": "JZ000007A",
+      "jcbh": "JC0003",
+      "jcjg": "子宫肌壁回声不均，考虑腺肌症",
+      "jcbw": "盆腔",
+      "bgrq": "2025-02-04T13:21:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000007A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0003"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000012",
+      "jzbh": "JZ000009A",
+      "jcbh": "JC0005",
+      "jcjg": "轻度脂肪肝",
+      "jcbw": "腹部",
+      "bgrq": "2025-03-23T18:16:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000009A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0005"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000015",
+      "jzbh": "JZ000011A",
+      "jcbh": "JC0005",
+      "jcjg": "轻度脂肪肝",
+      "jcbw": "腹部",
+      "bgrq": "2025-01-03T15:11:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000011A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0005"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000016",
+      "jzbh": "JZ000012A",
+      "jcbh": "JC0004",
+      "jcjg": "食管下段黏膜条状发红",
+      "jcbw": "胃",
+      "bgrq": "2025-01-28T16:34:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000012A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0004"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000017",
+      "jzbh": "JZ000013A",
+      "jcbh": "JC0006",
+      "jcjg": "未见明显异常",
+      "jcbw": "颅脑",
+      "bgrq": "2025-02-06T10:41:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000013A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0006"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000018",
+      "jzbh": "JZ000014A",
+      "jcbh": "JC0006",
+      "jcjg": "未见明显异常",
+      "jcbw": "颅脑",
+      "bgrq": "2025-02-02T18:57:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000014A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0006"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000019",
+      "jzbh": "JZ000015A",
+      "jcbh": "JC0006",
+      "jcjg": "未见明显异常",
+      "jcbw": "颅脑",
+      "bgrq": "2025-01-27T12:32:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000015A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0006"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000020",
+      "jzbh": "JZ000016A",
+      "jcbh": "JC0007",
+      "jcjg": "双肺纹理增粗",
+      "jcbw": "胸部",
+      "bgrq": "2025-02-04T17:33:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000016A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0007"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000021",
+      "jzbh": "JZ000017A",
+      "jcbh": "JC0007",
+      "jcjg": "双肺纹理增粗",
+      "jcbw": "胸部",
+      "bgrq": "2025-02-06T17:16:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000017A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0007"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000022",
+      "jzbh": "JZ000018A",
+      "jcbh": "JC0007",
+      "jcjg": "肺门影增浓",
+      "jcbw": "胸部",
+      "bgrq": "2025-03-13T12:23:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000018A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0007"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000023",
+      "jzbh": "JZ000019A",
+      "jcbh": "JC0007",
+      "jcjg": "双肺纹理增粗",
+      "jcbw": "胸部",
+      "bgrq": "2025-01-26T15:13:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000019A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0007"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000024",
+      "jzbh": "JZ000020A",
+      "jcbh": "JC0005",
+      "jcjg": "胆囊壁毛糙",
+      "jcbw": "腹部",
+      "bgrq": "2025-03-10T18:40:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000020A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0005"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000025",
+      "jzbh": "JZ000021A",
+      "jcbh": "JC0004",
+      "jcjg": "食管下段黏膜条状发红",
+      "jcbw": "胃",
+      "bgrq": "2025-03-12T11:30:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000021A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0004"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000026",
+      "jzbh": "JZ000022A",
+      "jcbh": "JC0004",
+      "jcjg": "食管下段黏膜条状发红",
+      "jcbw": "胃",
+      "bgrq": "2025-01-08T10:55:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000022A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0004"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000031",
+      "jzbh": "JZ000025A",
+      "jcbh": "JC0008",
+      "jcjg": "肾盂轻度分离",
+      "jcbw": "泌尿系",
+      "bgrq": "2025-02-10T18:22:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000025A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0008"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000032",
+      "jzbh": "JZ000026A",
+      "jcbh": "JC0008",
+      "jcjg": "膀胱壁毛糙",
+      "jcbw": "泌尿系",
+      "bgrq": "2025-03-08T17:04:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000026A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0008"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000033",
+      "jzbh": "JZ000027A",
+      "jcbh": "JC0009",
+      "jcjg": "乳腺导管扩张",
+      "jcbw": "乳腺",
+      "bgrq": "2025-02-28T12:00:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000027A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0009"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000034",
+      "jzbh": "JZ000028A",
+      "jcbh": "JC0009",
+      "jcjg": "乳腺导管扩张",
+      "jcbw": "乳腺",
+      "bgrq": "2025-01-18T17:19:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000028A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0009"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000035",
+      "jzbh": "JZ000029A",
+      "jcbh": "JC0009",
+      "jcjg": "乳腺导管扩张",
+      "jcbw": "乳腺",
+      "bgrq": "2025-01-18T14:39:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000029A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0009"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000036",
+      "jzbh": "JZ000030A",
+      "jcbh": "JC0010",
+      "jcjg": "FEV1/FVC下降",
+      "jcbw": "肺部",
+      "bgrq": "2025-03-23T16:18:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000030A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0010"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000041",
+      "jzbh": "JZ000033A",
+      "jcbh": "JC0010",
+      "jcjg": "FEV1/FVC下降",
+      "jcbw": "肺部",
+      "bgrq": "2025-01-26T14:24:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000033A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0010"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000044",
+      "jzbh": "JZ000035A",
+      "jcbh": "JC0011",
+      "jcjg": "腮腺内见多个低回声结节",
+      "jcbw": "腮腺",
+      "bgrq": "2025-01-18T13:47:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000035A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0011"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000045",
+      "jzbh": "JZ000036A",
+      "jcbh": "JC0011",
+      "jcjg": "腮腺肿大，回声不均",
+      "jcbw": "腮腺",
+      "bgrq": "2025-02-03T16:07:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000036A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0011"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000046",
+      "jzbh": "JZ000037A",
+      "jcbh": "JC0011",
+      "jcjg": "腮腺内见多个低回声结节",
+      "jcbw": "腮腺",
+      "bgrq": "2025-03-14T18:09:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000037A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0011"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000047",
+      "jzbh": "JZ000038A",
+      "jcbh": "JC0011",
+      "jcjg": "腮腺内见多个低回声结节",
+      "jcbw": "腮腺",
+      "bgrq": "2025-01-26T10:37:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000038A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0011"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000050",
+      "jzbh": "JZ000040A",
+      "jcbh": "JC0012",
+      "jcjg": "颈动脉斑块形成",
+      "jcbw": "颈部血管",
+      "bgrq": "2025-02-05T11:46:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000040A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0012"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000053",
+      "jzbh": "JZ000042A",
+      "jcbh": "JC0001",
+      "jcjg": "甲状腺血流信号增多",
+      "jcbw": "颈部",
+      "bgrq": "2025-03-06T09:33:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000042A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0001"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000054",
+      "jzbh": "JZ000043A",
+      "jcbh": "JC0002",
+      "jcjg": "甲状腺摄取功能增高",
+      "jcbw": "甲状腺",
+      "bgrq": "2025-03-22T09:11:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000043A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0002"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000061",
+      "jzbh": "JZ000047A",
+      "jcbh": "JC0014",
+      "jcjg": "窦性心动过速",
+      "jcbw": "心脏",
+      "bgrq": "2025-01-05T17:47:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000047A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0014"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000064",
+      "jzbh": "JZ000049A",
+      "jcbh": "JC0012",
+      "jcjg": "双侧颈动脉内中膜增厚",
+      "jcbw": "颈部血管",
+      "bgrq": "2025-03-16T10:35:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000049A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0012"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000069",
+      "jzbh": "JZ000052A",
+      "jcbh": "JC0015",
+      "jcjg": "椎间盘膨出，硬膜囊受压",
+      "jcbw": "腰椎",
+      "bgrq": "2025-02-12T12:41:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000052A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0015"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000136",
+      "jzbh": "JZ000233A",
+      "jcbh": "JC0014",
+      "jcjg": "窦性心律，ST段轻度压低",
+      "jcbw": "心脏",
+      "bgrq": "2025-06-08T13:23:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000233A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0014"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000137",
+      "jzbh": "JZ000233A",
+      "jcbh": "JC0014",
+      "jcjg": "窦性心律",
+      "jcbw": "心脏",
+      "bgrq": "2025-07-07T00:00:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000233A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0014"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000138",
+      "jzbh": "JZ000234A",
+      "jcbh": "JC0019",
+      "jcjg": "胰腺饱满，周围脂肪间隙稍模糊",
+      "jcbw": "腹部",
+      "bgrq": "2025-07-15T10:47:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000234A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0019"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000139",
+      "jzbh": "JZ000234A",
+      "jcbh": "JC0019",
+      "jcjg": "阑尾增粗，周围脂肪间隙模糊，考虑急性阑尾炎",
+      "jcbw": "腹部",
+      "bgrq": "2025-08-20T00:00:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000234A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0019"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000140",
+      "jzbh": "JZ000235A",
+      "jcbh": "JC0018",
+      "jcjg": "两肺纹理增多",
+      "jcbw": "胸部",
+      "bgrq": "2025-09-03T17:58:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000235A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0018"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000141",
+      "jzbh": "JZ000235A",
+      "jcbh": "JC0018",
+      "jcjg": "两肺纹理增多，未见实变",
+      "jcbw": "胸部",
+      "bgrq": "2025-10-03T00:00:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000235A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0018"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL000142",
+      "jzbh": "JZ000235A",
+      "jcbh": "JC0018",
+      "jcjg": "两肺纹理增多，未见实变",
+      "jcbw": "胸部",
+      "bgrq": "2025-10-13T00:00:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000235A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0018"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001022",
+      "jzbh": "JZ000537A",
+      "jcbh": "JC0101",
+      "jcjg": "食管下段黏膜条状发红",
+      "jcbw": "胃",
+      "bgrq": "2025-07-26T13:14:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000537A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0101"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001027",
+      "jzbh": "JZ000538A",
+      "jcbh": "JC0101",
+      "jcjg": "慢性胃炎表现",
+      "jcbw": "胃",
+      "bgrq": "2025-11-05T11:10:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000538A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0101"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001037",
+      "jzbh": "JZ000540A",
+      "jcbh": "JC0101",
+      "jcjg": "胃黏膜充血水肿",
+      "jcbw": "胃",
+      "bgrq": "2025-07-25T14:30:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000540A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0101"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001047",
+      "jzbh": "JZ000542A",
+      "jcbh": "JC0101",
+      "jcjg": "食管下段黏膜条状发红",
+      "jcbw": "胃",
+      "bgrq": "2025-10-27T12:50:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000542A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0101"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001064",
+      "jzbh": "JZ000545A",
+      "jcbh": "JC0105",
+      "jcjg": "窦性心律，ST段轻度压低",
+      "jcbw": "心脏",
+      "bgrq": "2025-04-03T09:18:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000545A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0105"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001125",
+      "jzbh": "JZ000557A",
+      "jcbh": "JC0108",
+      "jcjg": "双肺纹理增粗",
+      "jcbw": "胸部",
+      "bgrq": "2025-06-25T08:22:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000557A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0108"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001139",
+      "jzbh": "JZ000560A",
+      "jcbh": "JC0110",
+      "jcjg": "FEV1/FVC下降",
+      "jcbw": "肺部",
+      "bgrq": "2025-02-05T17:43:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000560A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0110"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001146",
+      "jzbh": "JZ000562A",
+      "jcbh": "JC0110",
+      "jcjg": "轻度阻塞性通气功能障碍",
+      "jcbw": "肺部",
+      "bgrq": "2025-04-02T15:34:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000562A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0110"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001149",
+      "jzbh": "JZ000563A",
+      "jcbh": "JC0111",
+      "jcjg": "甲状腺血流信号增多",
+      "jcbw": "颈部",
+      "bgrq": "2025-03-03T10:29:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000563A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0111"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001169",
+      "jzbh": "JZ000567A",
+      "jcbh": "JC0111",
+      "jcjg": "甲状腺血流信号增多",
+      "jcbw": "颈部",
+      "bgrq": "2025-01-06T14:44:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000567A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0111"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001174",
+      "jzbh": "JZ000568A",
+      "jcbh": "JC0102",
+      "jcjg": "轻度脂肪肝",
+      "jcbw": "腹部",
+      "bgrq": "2025-11-07T10:18:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000568A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0102"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001177",
+      "jzbh": "JZ000569A",
+      "jcbh": "JC0102",
+      "jcjg": "肝内胆管壁回声增强",
+      "jcbw": "腹部",
+      "bgrq": "2025-01-01T09:36:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000569A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0102"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001180",
+      "jzbh": "JZ000570A",
+      "jcbh": "JC0102",
+      "jcjg": "肝内胆管壁回声增强",
+      "jcbw": "腹部",
+      "bgrq": "2025-09-14T17:08:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000570A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0102"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001184",
+      "jzbh": "JZ000571A",
+      "jcbh": "JC0102",
+      "jcjg": "胆囊壁毛糙",
+      "jcbw": "腹部",
+      "bgrq": "2025-09-28T13:53:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000571A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0102"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001187",
+      "jzbh": "JZ000572A",
+      "jcbh": "JC0102",
+      "jcjg": "轻度脂肪肝",
+      "jcbw": "腹部",
+      "bgrq": "2025-04-25T11:12:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000572A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0102"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001190",
+      "jzbh": "JZ000573A",
+      "jcbh": "JC0113",
+      "jcjg": "未见明显异常",
+      "jcbw": "颅脑",
+      "bgrq": "2025-06-20T10:47:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000573A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0113"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001202",
+      "jzbh": "JZ000577A",
+      "jcbh": "JC0113",
+      "jcjg": "未见明显异常",
+      "jcbw": "颅脑",
+      "bgrq": "2025-08-26T12:26:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000577A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0113"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001206",
+      "jzbh": "JZ000578A",
+      "jcbh": "JC0114",
+      "jcjg": "椎间隙变窄",
+      "jcbw": "腰椎",
+      "bgrq": "2025-01-06T17:48:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000578A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0114"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001210",
+      "jzbh": "JZ000579A",
+      "jcbh": "JC0114",
+      "jcjg": "椎间盘膨出，硬膜囊受压",
+      "jcbw": "腰椎",
+      "bgrq": "2025-06-11T10:35:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000579A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0114"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001222",
+      "jzbh": "JZ000582A",
+      "jcbh": "JC0114",
+      "jcjg": "椎间隙变窄",
+      "jcbw": "腰椎",
+      "bgrq": "2025-09-15T13:24:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000582A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0114"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001228",
+      "jzbh": "JZ000589A",
+      "jcbh": "JC0116",
+      "jcjg": "肾盂轻度分离",
+      "jcbw": "泌尿系",
+      "bgrq": "2025-04-14T13:29:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000589A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0116"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001231",
+      "jzbh": "JZ000590A",
+      "jcbh": "JC0116",
+      "jcjg": "膀胱壁毛糙",
+      "jcbw": "泌尿系",
+      "bgrq": "2025-06-13T09:47:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000590A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0116"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001235",
+      "jzbh": "JZ000592A",
+      "jcbh": "JC0116",
+      "jcjg": "肾盂轻度分离",
+      "jcbw": "泌尿系",
+      "bgrq": "2025-05-04T13:55:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000592A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0116"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001238",
+      "jzbh": "JZ000593A",
+      "jcbh": "JC0117",
+      "jcjg": "关节间隙轻度变窄，退行性改变",
+      "jcbw": "关节",
+      "bgrq": "2025-07-11T08:26:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000593A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0117"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001241",
+      "jzbh": "JZ000594A",
+      "jcbh": "JC0117",
+      "jcjg": "关节周围骨质疏松",
+      "jcbw": "关节",
+      "bgrq": "2025-05-14T10:53:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000594A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0117"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001244",
+      "jzbh": "JZ000595A",
+      "jcbh": "JC0117",
+      "jcjg": "关节退行性改变",
+      "jcbw": "关节",
+      "bgrq": "2025-07-06T15:43:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000595A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0117"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001253",
+      "jzbh": "JZ000598A",
+      "jcbh": "JC0118",
+      "jcjg": "乳腺导管扩张",
+      "jcbw": "乳腺",
+      "bgrq": "2025-05-13T10:09:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000598A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0118"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001255",
+      "jzbh": "JZ000599A",
+      "jcbh": "JC0118",
+      "jcjg": "低回声结节，边界尚清",
+      "jcbw": "乳腺",
+      "bgrq": "2025-11-04T10:24:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000599A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0118"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001258",
+      "jzbh": "JZ000600A",
+      "jcbh": "JC0118",
+      "jcjg": "乳腺腺体增厚",
+      "jcbw": "乳腺",
+      "bgrq": "2025-06-20T15:34:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000600A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0118"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001261",
+      "jzbh": "JZ000601A",
+      "jcbh": "JC0118",
+      "jcjg": "低回声结节，边界尚清",
+      "jcbw": "乳腺",
+      "bgrq": "2025-01-20T16:21:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000601A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0118"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001263",
+      "jzbh": "JZ000602A",
+      "jcbh": "JC0118",
+      "jcjg": "低回声结节，边界尚清",
+      "jcbw": "乳腺",
+      "bgrq": "2025-07-16T10:45:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000602A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0118"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001270",
+      "jzbh": "JZ000605A",
+      "jcbh": "JC0112",
+      "jcjg": "甲状腺摄锝功能减低",
+      "jcbw": "甲状腺",
+      "bgrq": "2025-08-05T17:14:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000605A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0112"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001277",
+      "jzbh": "JZ000608A",
+      "jcbh": "JC0119",
+      "jcjg": "腮腺内见多个低回声结节",
+      "jcbw": "腮腺",
+      "bgrq": "2025-08-19T13:41:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000608A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0119"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001279",
+      "jzbh": "JZ000609A",
+      "jcbh": "JC0119",
+      "jcjg": "腮腺肿大，回声不均",
+      "jcbw": "腮腺",
+      "bgrq": "2025-10-12T12:53:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000609A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0119"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001281",
+      "jzbh": "JZ000610A",
+      "jcbh": "JC0119",
+      "jcjg": "腮腺内见多个低回声结节",
+      "jcbw": "腮腺",
+      "bgrq": "2025-11-02T13:20:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000610A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0119"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001288",
+      "jzbh": "JZ000613A",
+      "jcbh": "JC0120",
+      "jcjg": "子宫肌壁回声不均，考虑腺肌症",
+      "jcbw": "盆腔",
+      "bgrq": "2025-05-10T08:51:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000613A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0120"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001291",
+      "jzbh": "JZ000614A",
+      "jcbh": "JC0120",
+      "jcjg": "子宫内膜增厚",
+      "jcbw": "盆腔",
+      "bgrq": "2025-01-15T10:00:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000614A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0120"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001294",
+      "jzbh": "JZ000615A",
+      "jcbh": "JC0120",
+      "jcjg": "子宫肌壁回声不均，考虑腺肌症",
+      "jcbw": "盆腔",
+      "bgrq": "2025-04-11T08:20:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000615A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0120"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001297",
+      "jzbh": "JZ000616A",
+      "jcbh": "JC0120",
+      "jcjg": "子宫内膜增厚",
+      "jcbw": "盆腔",
+      "bgrq": "2025-06-26T15:09:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000616A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0120"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001300",
+      "jzbh": "JZ000617A",
+      "jcbh": "JC0120",
+      "jcjg": "子宫内膜增厚",
+      "jcbw": "盆腔",
+      "bgrq": "2025-05-04T12:59:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000617A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0120"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001304",
+      "jzbh": "JZ000619A",
+      "jcbh": "JC0109",
+      "jcjg": "磨玻璃样结节待查",
+      "jcbw": "胸部",
+      "bgrq": "2025-10-18T16:15:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000619A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0109"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001310",
+      "jzbh": "JZ000623A",
+      "jcbh": "JC0105",
+      "jcjg": "偶发早搏",
+      "jcbw": "心脏",
+      "bgrq": "2025-07-18T15:23:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000623A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0105"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001311",
+      "jzbh": "JZ000624A",
+      "jcbh": "JC0105",
+      "jcjg": "ST-T改变",
+      "jcbw": "心脏",
+      "bgrq": "2025-11-03T10:43:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000624A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0105"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001315",
+      "jzbh": "JZ000627A",
+      "jcbh": "JC0107",
+      "jcjg": "颈动脉斑块形成",
+      "jcbw": "颈部血管",
+      "bgrq": "2025-08-27T10:39:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000627A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0107"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001320",
+      "jzbh": "JZ000631A",
+      "jcbh": "JC0104",
+      "jcjg": "肠壁增厚伴周围渗出",
+      "jcbw": "腹部",
+      "bgrq": "2025-08-04T17:25:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000631A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0104"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001321",
+      "jzbh": "JZ000631A",
+      "jcbh": "JC0102",
+      "jcjg": "肝内胆管壁回声增强",
+      "jcbw": "腹部",
+      "bgrq": "2025-08-04T10:42:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000631A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0102"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001322",
+      "jzbh": "JZ000632A",
+      "jcbh": "JC0104",
+      "jcjg": "胰腺饱满，周围脂肪间隙稍模糊",
+      "jcbw": "腹部",
+      "bgrq": "2025-10-11T14:52:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000632A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0104"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001323",
+      "jzbh": "JZ000632A",
+      "jcbh": "JC0101",
+      "jcjg": "胃黏膜充血水肿",
+      "jcbw": "胃",
+      "bgrq": "2025-10-11T08:10:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000632A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0101"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001325",
+      "jzbh": "JZ000634A",
+      "jcbh": "JC0114",
+      "jcjg": "椎间隙变窄",
+      "jcbw": "腰椎",
+      "bgrq": "2025-09-25T09:42:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000634A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0114"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001326",
+      "jzbh": "JZ000637A",
+      "jcbh": "JC0118",
+      "jcjg": "乳腺腺体增厚",
+      "jcbw": "乳腺",
+      "bgrq": "2025-03-28T18:46:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000637A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0118"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001328",
+      "jzbh": "JZ000639A",
+      "jcbh": "JC0120",
+      "jcjg": "子宫肌壁回声不均，考虑腺肌症",
+      "jcbw": "盆腔",
+      "bgrq": "2025-06-22T11:53:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000639A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0120"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001329",
+      "jzbh": "JZ000640A",
+      "jcbh": "JC0113",
+      "jcjg": "腔隙性脑梗死灶",
+      "jcbw": "颅脑",
+      "bgrq": "2025-09-04T11:06:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000640A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0113"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001333",
+      "jzbh": "JZ000644A",
+      "jcbh": "JC0109",
+      "jcjg": "磨玻璃样结节待查",
+      "jcbw": "胸部",
+      "bgrq": "2025-04-13T13:01:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000644A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0109"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001334",
+      "jzbh": "JZ000645A",
+      "jcbh": "JC0108",
+      "jcjg": "肺门影增浓",
+      "jcbw": "胸部",
+      "bgrq": "2025-06-25T13:02:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000645A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0108"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001338",
+      "jzbh": "JZ000648A",
+      "jcbh": "JC0106",
+      "jcjg": "左房轻度增大",
+      "jcbw": "心脏",
+      "bgrq": "2025-07-05T10:39:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000648A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0106"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001339",
+      "jzbh": "JZ000649A",
+      "jcbh": "JC0105",
+      "jcjg": "窦性心律，ST段轻度压低",
+      "jcbw": "心脏",
+      "bgrq": "2025-10-25T17:36:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000649A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0105"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001340",
+      "jzbh": "JZ000650A",
+      "jcbh": "JC0105",
+      "jcjg": "窦性心动过速",
+      "jcbw": "心脏",
+      "bgrq": "2025-07-07T10:22:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000650A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0105"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001345",
+      "jzbh": "JZ000654A",
+      "jcbh": "JC0101",
+      "jcjg": "慢性胃炎表现",
+      "jcbw": "胃",
+      "bgrq": "2025-03-10T18:32:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000654A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0101"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001347",
+      "jzbh": "JZ000656A",
+      "jcbh": "JC0104",
+      "jcjg": "胰腺饱满，周围脂肪间隙稍模糊",
+      "jcbw": "腹部",
+      "bgrq": "2025-12-07T08:42:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000656A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0104"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001350",
+      "jzbh": "JZ000659A",
+      "jcbh": "JC0114",
+      "jcjg": "椎间盘膨出，硬膜囊受压",
+      "jcbw": "腰椎",
+      "bgrq": "2025-11-24T14:21:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000659A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0114"
+      }
+    }
+  },
+  {
+    "typeName": "检查记录",
+    "typeCode": "jcjl",
+    "data": {
+      "jcjlbh": "JCJL001351",
+      "jzbh": "JZ000662A",
+      "jcbh": "JC0118",
+      "jcjg": "低回声结节，边界尚清",
+      "jcbw": "乳腺",
+      "bgrq": "2025-06-14T09:14:00"
+    },
+    "relations": {
+      "jzbh": {
+        "targetTypeCode": "jzjl",
+        "targetProperty": "jzbh",
+        "targetPropertyVal": "JZ000662A"
+      },
+      "jcbh": {
+        "targetTypeCode": "jc",
+        "targetProperty": "jcbh",
+        "targetPropertyVal": "JC0118"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000003A",
+      "hzbh": "HZ000003",
+      "yljg": "康宁医疗中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000003"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000004A",
+      "hzbh": "HZ000004",
+      "yljg": "仁和市第一医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000004"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000005A",
+      "hzbh": "HZ000005",
+      "yljg": "华安人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000005"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000006A",
+      "hzbh": "HZ000006",
+      "yljg": "华安人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000006"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000007A",
+      "hzbh": "HZ000007",
+      "yljg": "博济人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000007"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000009A",
+      "hzbh": "HZ000009",
+      "yljg": "博济人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000009"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000011A",
+      "hzbh": "HZ000011",
+      "yljg": "东城综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000011"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000012A",
+      "hzbh": "HZ000012",
+      "yljg": "澄川专科医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000012"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000013A",
+      "hzbh": "HZ000013",
+      "yljg": "康宁医疗中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000013"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000014A",
+      "hzbh": "HZ000014",
+      "yljg": "安康综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000014"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000015A",
+      "hzbh": "HZ000015",
+      "yljg": "康宁医疗中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000015"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000016A",
+      "hzbh": "HZ000016",
+      "yljg": "仁和市第一医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000016"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000017A",
+      "hzbh": "HZ000017",
+      "yljg": "康宁医疗中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000017"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000018A",
+      "hzbh": "HZ000018",
+      "yljg": "博济人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000018"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000019A",
+      "hzbh": "HZ000019",
+      "yljg": "博济人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000019"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000020A",
+      "hzbh": "HZ000020",
+      "yljg": "安康综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000020"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000021A",
+      "hzbh": "HZ000021",
+      "yljg": "澄川专科医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000021"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000022A",
+      "hzbh": "HZ000022",
+      "yljg": "康宁医疗中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000022"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000025A",
+      "hzbh": "HZ000025",
+      "yljg": "明德医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000025"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000026A",
+      "hzbh": "HZ000026",
+      "yljg": "澄川专科医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000026"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000027A",
+      "hzbh": "HZ000027",
+      "yljg": "华安人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000027"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000028A",
+      "hzbh": "HZ000028",
+      "yljg": "东城综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000028"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000029A",
+      "hzbh": "HZ000029",
+      "yljg": "安康综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000029"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000030A",
+      "hzbh": "HZ000030",
+      "yljg": "安康综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000030"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000033A",
+      "hzbh": "HZ000033",
+      "yljg": "博济人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000033"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000035A",
+      "hzbh": "HZ000035",
+      "yljg": "仁和市第一医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000035"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000036A",
+      "hzbh": "HZ000036",
+      "yljg": "仁和市第一医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000036"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000037A",
+      "hzbh": "HZ000037",
+      "yljg": "明德医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000037"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000038A",
+      "hzbh": "HZ000038",
+      "yljg": "仁和市第一医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000038"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000040A",
+      "hzbh": "HZ000040",
+      "yljg": "华安人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000040"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000042A",
+      "hzbh": "HZ000042",
+      "yljg": "安康综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000042"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000043A",
+      "hzbh": "HZ000043",
+      "yljg": "安康综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000043"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000047A",
+      "hzbh": "HZ000047",
+      "yljg": "明德医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000047"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000049A",
+      "hzbh": "HZ000049",
+      "yljg": "华安人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000049"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000052A",
+      "hzbh": "HZ000052",
+      "yljg": "仁和市第一医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000052"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000233A",
+      "hzbh": "HZ000101",
+      "yljg": "华安人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000101"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000234A",
+      "hzbh": "HZ000102",
+      "yljg": "澄川专科医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000102"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000235A",
+      "hzbh": "HZ000103",
+      "yljg": "澄川专科医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000103"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000537A",
+      "hzbh": "HZ000305",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000305"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000538A",
+      "hzbh": "HZ000306",
+      "yljg": "弘德综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000306"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000540A",
+      "hzbh": "HZ000308",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000308"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000542A",
+      "hzbh": "HZ000310",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000310"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000545A",
+      "hzbh": "HZ000313",
+      "yljg": "弘德综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000313"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000557A",
+      "hzbh": "HZ000325",
+      "yljg": "广济医疗中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000325"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000560A",
+      "hzbh": "HZ000328",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000328"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000562A",
+      "hzbh": "HZ000330",
+      "yljg": "长风人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000330"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000563A",
+      "hzbh": "HZ000331",
+      "yljg": "长风人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000331"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000567A",
+      "hzbh": "HZ000335",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000335"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000568A",
+      "hzbh": "HZ000336",
+      "yljg": "弘德综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000336"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000569A",
+      "hzbh": "HZ000337",
+      "yljg": "弘德综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000337"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000570A",
+      "hzbh": "HZ000338",
+      "yljg": "怀德市第二医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000338"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000571A",
+      "hzbh": "HZ000339",
+      "yljg": "弘德综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000339"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000572A",
+      "hzbh": "HZ000340",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000340"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000573A",
+      "hzbh": "HZ000341",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000341"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000577A",
+      "hzbh": "HZ000345",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000345"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000578A",
+      "hzbh": "HZ000346",
+      "yljg": "长风人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000346"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000579A",
+      "hzbh": "HZ000347",
+      "yljg": "广济医疗中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000347"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000582A",
+      "hzbh": "HZ000350",
+      "yljg": "怀德市第二医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000350"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000583A",
+      "hzbh": "HZ000351",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000351"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000589A",
+      "hzbh": "HZ000357",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000357"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000590A",
+      "hzbh": "HZ000358",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000358"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000592A",
+      "hzbh": "HZ000360",
+      "yljg": "怀德市第二医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000360"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000593A",
+      "hzbh": "HZ000361",
+      "yljg": "长风人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000361"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000594A",
+      "hzbh": "HZ000362",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000362"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000595A",
+      "hzbh": "HZ000363",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000363"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000598A",
+      "hzbh": "HZ000366",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000366"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000599A",
+      "hzbh": "HZ000367",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000367"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000600A",
+      "hzbh": "HZ000368",
+      "yljg": "启明综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000368"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000601A",
+      "hzbh": "HZ000369",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000369"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000602A",
+      "hzbh": "HZ000370",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000370"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000605A",
+      "hzbh": "HZ000373",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000373"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000608A",
+      "hzbh": "HZ000376",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000376"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000609A",
+      "hzbh": "HZ000377",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000377"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000610A",
+      "hzbh": "HZ000378",
+      "yljg": "怀德市第二医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000378"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000613A",
+      "hzbh": "HZ000381",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000381"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000614A",
+      "hzbh": "HZ000382",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000382"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000615A",
+      "hzbh": "HZ000383",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000383"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000616A",
+      "hzbh": "HZ000384",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000384"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000617A",
+      "hzbh": "HZ000385",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000385"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000619A",
+      "hzbh": "HZ000387",
+      "yljg": "弘德综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000387"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000623A",
+      "hzbh": "HZ000391",
+      "yljg": "长风人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000391"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000624A",
+      "hzbh": "HZ000392",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000392"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000627A",
+      "hzbh": "HZ000395",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000395"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000631A",
+      "hzbh": "HZ000399",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000399"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000632A",
+      "hzbh": "HZ000400",
+      "yljg": "普爱医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000400"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000634A",
+      "hzbh": "HZ000402",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000402"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000637A",
+      "hzbh": "HZ000405",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000405"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000639A",
+      "hzbh": "HZ000407",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000407"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000640A",
+      "hzbh": "HZ000408",
+      "yljg": "长风人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000408"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000644A",
+      "hzbh": "HZ000412",
+      "yljg": "弘德综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000412"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000645A",
+      "hzbh": "HZ000413",
+      "yljg": "启明综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000413"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000648A",
+      "hzbh": "HZ000416",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000416"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000649A",
+      "hzbh": "HZ000417",
+      "yljg": "怀德市第二医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000417"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000650A",
+      "hzbh": "HZ000418",
+      "yljg": "启明综合医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000418"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000654A",
+      "hzbh": "HZ000422",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000422"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000656A",
+      "hzbh": "HZ000424",
+      "yljg": "惠民人民医院",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000424"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000659A",
+      "hzbh": "HZ000427",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000427"
+      }
+    }
+  },
+  {
+    "typeName": "就诊记录",
+    "typeCode": "jzjl",
+    "data": {
+      "jzbh": "JZ000662A",
+      "hzbh": "HZ000430",
+      "yljg": "宁远医学中心",
+      "czfzbz":"初诊"
+    },
+    "relations": {
+      "hzbh": {
+        "targetTypeCode": "hz",
+        "targetProperty": "hzbh",
+        "targetPropertyVal": "HZ000430"
+      }
+    }
+  }
+]
